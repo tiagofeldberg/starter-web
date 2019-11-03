@@ -1,1 +1,2 @@
-level1/level1-file.txt
+/level1/
+*.log
